@@ -1,16 +1,16 @@
 {
-  "Имя": "Открывается пустая корзина в личном кабинете при нажатии на нее",
-  "Браузер": "Google Chrome, Версия 102.0.5005.61",
-  "Устройство": "Samsyng A50",
+  "Name": "An empty basket opens in your account when you click on it",
+  "Browser": "Google Chrome, Version 102.0.5005.61",
+  "Device": "Samsyng A50",
   "Severity": "Blocker",
-  "Шаги для воспроизведения ошибки": [
+  "Steps to reproduce the error": [
   {
-                     "Шаг первый": "Открыть сайт https://5element.by/",
-                     "Шаг второй": "Открыть раздел 'Смартфоны и гаджеты'",
-                     "Шаг третий": "Добавить любой продукт в корзину",
-                     "Шаг четверный": "Нажать в правом верхнем углу на корзину" }
+                     "Step one": "Open site https://5element.by/",
+                     "step two": "Open section 'Smartphones and Gadgets'",
+                     "Step Three": "Add any product to cart",
+                     "Fourth step": "Click in the upper right corner on the basket" }
 ],
-  "Фактический результат": "Продукт, выбранный из раздела 'Смартфоны и гаджеты' не попал в корзину личного кабинет у пользователя",
-  "Ожидаемый результат": "Продукт, выбранный из раздела 'Смартфоны и гаджеты' попадает в корзину личного кабинет у пользователя"
+  "Actual result": "The product selected from the 'Smartphones and Gadgets' section was not added to the cart of the user's personal account",
+  "Expected Result": "The product selected from the 'Smartphones and Gadgets' section is added to the basket of the user's personal account"
 
    }
