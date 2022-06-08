@@ -3,14 +3,14 @@
   "Browser": "Google Chrome, Version 102.0.5005.61",
   "Device": "Samsyng A50",
   "Severity": "Blocker",
-  "Steps to reproduce the error": [
+  "Steps_to_reproduce_the_error": [
   {
-                     "Step one": "Open site https://5element.by/",
-                     "step two": "Open section 'Smartphones and Gadgets'",
-                     "Step Three": "Add any product to cart",
-                     "Fourth step": "Click in the upper right corner on the basket" }
+                     "Step_one": "Open site https://5element.by/",
+                     "step_two": "Open section 'Smartphones and Gadgets'",
+                     "Step_Three": "Add any product to cart",
+                     "Fourth_step": "Click in the upper right corner on the basket" }
 ],
-  "Actual result": "The product selected from the 'Smartphones and Gadgets' section was not added to the cart of the user's personal account",
-  "Expected Result": "The product selected from the 'Smartphones and Gadgets' section is added to the basket of the user's personal account"
+  "Actual_result": "The product selected from the 'Smartphones and Gadgets' section was not added to the cart of the user's personal account",
+  "Expected_Result": "The product selected from the 'Smartphones and Gadgets' section is added to the basket of the user's personal account"
 
    }
